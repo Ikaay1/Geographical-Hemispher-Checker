@@ -2,7 +2,6 @@ img {
     width: 80%;
     height: 50vh;
     border-radius: 6px;
-    border: 1px solid red
 }
 .North {
     display: flex;
@@ -11,7 +10,6 @@ img {
     height: 100%;
     padding: 150px 0;
     background-color: #222;
-    border: 1px solid red;
 }
 .South {
     display: flex;
